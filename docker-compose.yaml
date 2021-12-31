@@ -1,5 +1,5 @@
 services:
-    cloudreve:
+    cr:
         public: true
         container_name: dreve
         image: jialezi/cloudreve
